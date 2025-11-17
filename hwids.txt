@@ -1,1 +1,3 @@
-
+eu_pc = 
+eu_laptop = 
+gex =
